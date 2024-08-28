@@ -1,0 +1,7 @@
+FİLM ARŞİVİ
+**********************
+"Film Arşivim" projesi, kullanıcıların film bilgilerini saklayabileceği, yönetebileceği ve izleyebileceği bir Windows Forms uygulamasıdır. 
+Kullanıcılar, film adını, kategorisini ve izleme linkini girerek kendi film arşivlerini oluşturabilirler. 
+Arşive eklenen filmler liste halinde görüntülenir ve bu listeden çift tıklama ile film izlenebilir. 
+Uygulama, kullanıcıya arka plan rengini değiştirme ve tam ekran moduna geçme imkanı tanır.
+ Ayrıca, proje hakkında bilgi sunan bir "Hakkımızda" butonu ve güvenli çıkış yapma özelliği bulunmaktadır. 
